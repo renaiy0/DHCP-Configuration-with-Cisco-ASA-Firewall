@@ -33,7 +33,7 @@ Project ini mendemonstrasikan konfigurasi DHCP server yang terintegrasi dengan C
 ## 💻 CLI Configuration
 
 <div align="center">
-  <img src="assets/CLI" alt="ASA Firewall CLI Configuration" width="800"/>
+  <img src="assets/CLI.png" alt="ASA Firewall CLI Configuration" width="800"/>
   <p><em>ASA Firewall dan DHCP configuration commands</em></p>
 </div>
 

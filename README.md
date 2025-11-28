@@ -33,7 +33,7 @@ Project ini mendemonstrasikan konfigurasi DHCP server yang terintegrasi dengan C
 ## 💻 CLI Configuration
 
 <div align="center">
-  <img src="assets/cisco.pkt" alt="ASA Firewall CLI Configuration" width="800"/>
+  <img src="assets/cli" alt="ASA Firewall CLI Configuration" width="800"/>
   <p><em>ASA Firewall dan DHCP configuration commands</em></p>
 </div>
 
@@ -401,38 +401,13 @@ Switch(config)# ip dhcp snooping vlan 10
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/Enhancement`)
-3. Commit changes (`git commit -m 'Add new security feature'`)
-4. Push to branch (`git push origin feature/Enhancement`)
-5. Open Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **renaiy0**
 
-📧 Questions? Open an issue!  
-⭐ Found this helpful? Star the repo!  
-🔗 Share with network engineers!
 
 ---
 
 <div align="center">
-
-**Securing Networks with ASA Firewall** 🔥
-
-*Building secure, automated network infrastructure*
 
 </div>
